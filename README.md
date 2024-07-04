@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on web dev
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on gssoc
-- 🤔 I’m looking for help with c++ 
+- 🔭 I’m currently building projects on web dev and mastering competitive programming
 - 📫 How to reach me: LCS2021027@iiitl.ac.in
 
